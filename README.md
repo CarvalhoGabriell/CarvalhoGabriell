@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on Atomic Solutions LTDA
 - 🌱 I’m currently learning about RobotFramework, Java and Python and others current technologies...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about: Tests automation, BDD, Scrum.
+- 💬 Ask me about: Tests automation, BDD, Scrum, or something about QA life's .
 - 📫 How to reach me: gabriel.fernandes2312@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Becoming a QA Development
+- ⚡ Fun fact: Becoming a QA Development..... loading 
 
