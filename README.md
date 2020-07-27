@@ -1,4 +1,4 @@
-## Hi there 👋
+## Opaa, Eai!! 👋 😄
 
 #### Welcome to My Repository of Study, here you will find out some programation languages, framworks etc... that i'am learning or just play a little
 [![CarvalhoGabriell's github stats](https://github-readme-stats.vercel.app/api?username=CarvalhoGabriell "![CarvalhoGabriell's github stats")](https://github.com/CarvalhoGabriell/github-readme-stats)
